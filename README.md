@@ -3,7 +3,7 @@
     학교 강의 "모바일앱프로그래밍실습"의 자유 주제 기말 개인 프로젝트
    
     앱: Android Studio, JAVA를 사용하여 개발
-    서버: AWS, python을 사용하여 개발
+    서버: AWS, Flask, python을 사용하여 개발
 
     2022/05/27
 
