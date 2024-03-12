@@ -5,7 +5,7 @@
     앱: Android Studio, JAVA를 사용하여 개발
     서버: AWS, Flask, python을 사용하여 개발
 
-    2022/05/27
+    2022/05
 
 # 2.  프로젝트 설명
   ### 1. 로그인
