@@ -11,8 +11,8 @@
 <img src="https://github.com/slllldka/Tetris_App/assets/121309640/cfcc81da-3951-418f-8326-14cf6449d6dd" width="800" height="200"/>
 
 # 3. 프로젝트 설명
-  ### 1. 로그인
-  <img src="https://github.com/slllldka/Tetris_App/assets/121309640/73cd645d-c00f-4b11-a95f-b81dfe2b77c0" width="200" height="400"/>
+### 1. 로그인
+<img src="https://github.com/slllldka/Tetris_App/assets/121309640/73cd645d-c00f-4b11-a95f-b81dfe2b77c0" width="200" height="400"/>
     
     id, pw 입력 후 Register 버튼으로 DB에 등록
     id가 이미 존재할 경우 등록 실패
@@ -25,8 +25,8 @@
   
     인게임, 기록, 랭킹 화면으로 이동
 
-  ### 3. 인게임 화면
-  <img src="https://github.com/slllldka/Tetris_App/assets/121309640/45a52d32-0268-43ff-ad87-e76250f27c55" width="200" height="400"/>
+### 3. 인게임 화면
+<img src="https://github.com/slllldka/Tetris_App/assets/121309640/45a52d32-0268-43ff-ad87-e76250f27c55" width="200" height="400"/>
 
     테트리스 게임 구현
     
@@ -38,13 +38,13 @@
     종료와 동시에 DB에 점수 및 날짜 기록
     그 점수가 사용자의 최고 점수라면 DB에 랭킹 업데이트
 
-  ### 4. 기록 화면
-  <img src="https://github.com/slllldka/Tetris_App/assets/121309640/e69601e3-6bd5-4c81-a5b5-1003203d4f70" width="200" height="400"/>
+### 4. 기록 화면
+<img src="https://github.com/slllldka/Tetris_App/assets/121309640/e69601e3-6bd5-4c81-a5b5-1003203d4f70" width="200" height="400"/>
 
     DB에 저장된 사용자의 모든 기록(점수 및 날짜)을 보여줌
 
-  ### 5. 랭킹 화면
-  <img src="https://github.com/slllldka/Tetris_App/assets/121309640/a1b6c7e7-2b5a-4c2c-bd58-a9390b11cf71" width="200" height="400"/>
+### 5. 랭킹 화면
+<img src="https://github.com/slllldka/Tetris_App/assets/121309640/a1b6c7e7-2b5a-4c2c-bd58-a9390b11cf71" width="200" height="400"/>
   
     DB에 저장된 랭킹을 보여줌
     
