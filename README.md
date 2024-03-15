@@ -7,8 +7,12 @@
 
 개발 기간: 2022/05<br>
 
-# 2. 프로젝트 구조도
+# 2. 프로젝트 구조
+### 1. 구조도
 <img src="https://github.com/slllldka/Tetris_App/assets/121309640/cfcc81da-3951-418f-8326-14cf6449d6dd" width="800" height="200"/>
+
+### 2. ERD
+<img src="https://github.com/slllldka/Tetris_App/assets/121309640/2de3a509-4822-4a66-968e-4f178205e91a"/>
 
 # 3. 프로젝트 설명
 ### 1. 로그인
