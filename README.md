@@ -3,7 +3,7 @@
 학교 강의 '모바일앱프로그래밍실습'의 기말 자유 주제 개인 과제<br>
    
 앱: Android Studio, JAVA를 사용하여 개발, MVP 디자인 패턴 적용<br>
-서버: AWS, Flask, python을 사용하여 개발<br>
+서버: AWS, Flask, python을 사용하여 개발, HTTP 요청 활용<br>
 
 개발 기간: 2022/05<br>
 
