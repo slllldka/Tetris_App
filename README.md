@@ -25,7 +25,7 @@ id, pw 입력 후 Register 버튼으로 DB에 등록<br>
 id가 이미 존재할 경우 등록 실패<br>
 
 id, pw 입력 후 Start 버튼으로 로그인<br>
-id, pw가 일치하지 않을 경우 로그인 실패<br>
+id, pw가 DB에 등록된 정보와 일치하지 않을 경우 로그인 실패<br>
   
 ### 2. 로비 화면
 <img src="https://github.com/slllldka/Tetris_App/assets/121309640/983352d7-76cd-4a28-95db-f5278b3b8bab" width="200" height="400"/>
