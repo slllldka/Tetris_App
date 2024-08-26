@@ -33,6 +33,8 @@ id, pw가 DB에 등록된 정보와 일치하지 않을 경우 로그인 실패<
 인게임, 기록, 랭킹 화면으로 이동<br>
 
 ### 3. 인게임 화면
+https://github.com/user-attachments/assets/94bc69cc-8ba7-44b3-9640-cef5697e1f16
+
 <img src="https://github.com/slllldka/Tetris_App/assets/121309640/45a52d32-0268-43ff-ad87-e76250f27c55" width="200" height="400"/>
 
 테트리스 게임 구현<br>
